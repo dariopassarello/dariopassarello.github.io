@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "ForgiaCraft",
+      "name" : "ForgiaCraft",
+      "version" : "Beta 1.0.0",
+      "location" : "forgiacraft.json",
+      "priority" : 8
+    }
+  ]
+}
