@@ -4,9 +4,9 @@
     {
       "title" : "ForgiaCraft",
       "name" : "ForgiaCraft",
-      "version" : "1.0.4",
+      "version" : "1.1.1",
       "location" : "forgiacraft.json",
-      "priority" : 8
+      "priority" : 0
     }
   ]
 }
